@@ -1,50 +1,18 @@
 # Welcome to Konnektr 🚀
 
-**The Intelligent Digital Twin Platform**
+**The Intelligent Digital Twin Platform** — Go from Raw Data to Intelligent Digital Twin in Minutes
 
-Go from Raw Data to Intelligent Digital Twin in Minutes
+**🔓 100% Open Source** — All products available for self-hosting with no vendor lock-in.
 
----
+## 🔗 Konnektr Graph _(Ready Now)_
 
-## 🌟 What is Konnektr?
+**Semantic property graph with built-in validation.** Rich data relationships made simple - no complexity, just meaningful connections that scale.
 
-Konnektr automates digital twin creation, deployment, and orchestration. We solve for complexity, cost, and context, turning your disconnected data into intelligent systems that bring value to the physical world.
+## 🛠️ Complete Platform
 
-**🔓 100% Open Source** — All Konnektr products are open-source and available for self-hosting, with no vendor lock-in or hidden costs.
-
-## 🛠️ Our Products
-
-### 🤖 Konnektr Assembler _(Early Access)_
-
-AI-powered digital twin builder that automates DTDL model creation from any data source with a low-code visual interface.
-
-### 🔗 Konnektr Graph _(Ready Now)_
-
-Semantic property graph with built-in validation. Rich data relationships made simple - no complexity, just meaningful connections that scale.
-
-### ⚡ Konnektr Flow _(Coming Soon)_
-
-Real-time data and event orchestrator that serves as the nervous system for your digital twin, enabling intelligent automation.
-
-### 🧭 Konnektr Compass _(Coming Soon)_
-
-Analytics and insights platform that transforms complex digital twin data into actionable intelligence.
-
-## 🏗️ Platform Architecture
-
-Our platform is built on a clean separation between:
-
-- **Control Plane**: Manages lifecycle of all resources, users, organizations, billing, and access control
-- **Data Plane**: User-facing products for building and running digital twin solutions
-
-This architecture ensures scalability, maintainability, and seamless integration across all components.
-
-## ✨ Why Choose Konnektr?
-
-- **🚀 Speed to Value**: Go from raw data to deployed digital twin in minutes, not months
-- **📈 Enterprise-Grade Scale**: Built for enterprise workloads with open standards and flexible deployment
-- **🔓 100% Open Source**: Complete transparency, no vendor lock-in, community-driven innovation
-- **🎯 Bespoke Solutions**: Custom IoT and digital twin platforms tailored to your enterprise needs
+- **� Assembler** _(Early Access)_ — AI-powered digital twin builder
+- **⚡ Flow** _(Coming Soon)_ — Real-time data orchestrator  
+- **🧭 Compass** _(Coming Soon)_ — Analytics & insights platform
 
 ## 🔗 Quick Links
 
