@@ -4,11 +4,11 @@
 
 **🔓 100% Open Source** — All products available for self-hosting with no vendor lock-in.
 
-## 🔗 Konnektr Graph _(Ready Now)_
+## 🔗 Konnektr Graph
 
 **Semantic property graph with built-in validation.** Rich data relationships made simple - no complexity, just meaningful connections that scale.
 
-## 🛠️ Complete Platform
+## 🛠️ In Progress
 
 - **� Assembler** _(Early Access)_ — AI-powered digital twin builder
 - **⚡ Flow** _(Coming Soon)_ — Real-time data orchestrator  
